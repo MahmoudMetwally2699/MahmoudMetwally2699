@@ -1,42 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  /* Styling for the typing effect */
-  .typewriter {
-    overflow: hidden;
-    white-space: nowrap;
-    border-right: 0.15em solid orange;
-    font-family: monospace;
-    animation: typing 2s steps(40, end), blink-caret 0.75s step-end infinite;
-  }
 
-  /* Keyframes for the typing animation */
-  @keyframes typing {
-    from {
-      width: 0;
-    }
-    to {
-      width: 100%;
-    }
-  }
-
-  /* Keyframes for the blinking cursor animation */
-  @keyframes blink-caret {
-    from, to {
-      border-color: transparent;
-    }
-    50% {
-      border-color: orange;
-    }
-  }
-</style>
-</head>
-<body>
-  <p class="typewriter">Welcome to Mahmoud Ahmed's channel</p>
-</body>
-</html>
-
+![messagif](https://github.com/MahmoudMetwally2699/MahmoudMetwally2699/assets/113688967/778b0a22-b7d3-405f-8120-caf2742f15bf)
 
 
 # Mahmoud Ahmed - Fullstack Developer
