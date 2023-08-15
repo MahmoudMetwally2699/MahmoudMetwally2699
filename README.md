@@ -4,30 +4,30 @@
 <style>
   /* Styling for the typing effect */
   .typewriter {
-    overflow: hidden; /* Ensures the text doesn't overflow the container */
-    white-space: nowrap; /* Prevents line breaks in the middle of the text */
-    border-right: 0.15em solid orange; /* Creates the blinking cursor effect */
-    font-family: monospace; /* A monospace font for a typewriter look */
+    overflow: hidden;
+    white-space: nowrap;
+    border-right: 0.15em solid orange;
+    font-family: monospace;
     animation: typing 2s steps(40, end), blink-caret 0.75s step-end infinite;
   }
 
   /* Keyframes for the typing animation */
   @keyframes typing {
     from {
-      width: 0; /* Start with no width (hidden) */
+      width: 0;
     }
     to {
-      width: 100%; /* Gradually reveal the entire text */
+      width: 100%;
     }
   }
 
   /* Keyframes for the blinking cursor animation */
   @keyframes blink-caret {
     from, to {
-      border-color: transparent; /* Start and end with a transparent border (hidden cursor) */
+      border-color: transparent;
     }
     50% {
-      border-color: orange; /* Blink the border color at the midpoint */
+      border-color: orange;
     }
   }
 </style>
