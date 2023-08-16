@@ -65,6 +65,8 @@ Here are some of the technologies and tools I frequently work with:
 ## Language Usage
 
 !Language Usage
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudMetwally2699)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Thank you for visiting my GitHub profile. Let's create amazing things together! 😄
 
