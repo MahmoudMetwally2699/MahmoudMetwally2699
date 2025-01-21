@@ -21,6 +21,7 @@ As a fullstack developer, I have hands-on experience in the following technologi
 - Redux
 - Bootstrap
 - Tailwind
+- Next.js
 
 ### Backend
 - Node.js
